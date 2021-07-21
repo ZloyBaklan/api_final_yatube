@@ -1,4 +1,4 @@
-# api_final
+# API for Yatube (api_final)
 The frontend and view functions of the posts application are excluded from the project.
 
 When the project is launched, 
